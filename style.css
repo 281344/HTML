@@ -1,0 +1,90 @@
+/* img1{width: auto;height: 70%;} */
+.nav-bar{margin-top: 50px;}
+#navbar-ul{float: right; }
+.text1 {
+   position: absolute;
+    top: 300px;
+    left: 368px;
+    justify-content:space-evenly;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    color:cyan;
+ }
+
+.text01 {
+    position: absolute;
+     top: 300px;
+     left: 750px;
+     justify-content:space-evenly;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-size: 50px;
+     color: cyan;
+  }
+
+ .text2{
+     
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     margin-top: 100px;
+    
+ }
+ 
+ .card{
+     margin-top: 100px;
+ }
+ 
+ .con1
+ {
+     height: 300px;
+     z-index: auto;
+     position: relative;
+ }
+
+ .text3{
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-size: 46px;
+     font-weight: bold;
+
+ }
+
+ .footer{
+     background-color: black;
+     height: auto;
+     width: 100%;
+ }
+.fot-name{
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: orangered;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.followus{
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(247, 247, 247);
+    justify-content: center;
+
+}
+.fot-list{
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(247, 247, 247);
+    list-style: none;
+    
+    justify-content:center;
+
+}
+
+.fot-fot{
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(247, 247, 247);
+}
+.card1:hover{
+    background-color: blueviolet;
+    color: white;
+}
+
+
+
